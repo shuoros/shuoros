@@ -4,7 +4,7 @@ I am graduated with bachelor's degree in computer engineering from the Universit
 
 I have strong skills in developing and maintaining Spring Boot programs. I’m fluent in Spring core and its futures. I am familiar with JPA and Spring Data and have the ability to work with a variety of relational and non-relational databases. I am familiar with the concepts of unit testing and have good experience in Junit framework. My specialties are Teamwork, Git, Linux, Java EE, Spring Boot, Clean Code and Java Design Pattern.
 
-- 🔭 I’m currently working on [Javagram](https://github.com/shuoros/Javagram).
+- 🔭 I’m currently working on [Javagram](https://github.com/javaForEverything/javagram).
 - 🌱 I’m currently learning Spring Cloud.
 - 👯 I’m looking to collaborate on any Java and Spring projects.<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Java and Spring Boot😃.
