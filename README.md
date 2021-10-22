@@ -1,3 +1,5 @@
+![shuoros's github stats](https://github-readme-stats.vercel.app/api?username=shuoros&show_icons=true&theme=darcula&count_private=true&include_all_commits=true&custom_title=Soroush%27s+GitHub+Stats)
+
 ### Hi there 👋🏼, I'm Soroush
 
 I am graduated with bachelor's degree in computer engineering from the University of Guilan. While taking Advanced Programming course, I became familiar with the Java programming language and fell in love with it from the first lines of code I wrote. I quickly started to learn Java in depth and read many books on Java software development. At the end of that semester, when I gained highest grade in the class by developing the Bomber Man game as my final project, I was selected as teacher assistant for junior high students. Happily, I successfully assessed and supervised about 100 fellow students during my TAships. In my whole life I have never settled for less and always have tried to improve myself to achieve the best in anything and I never let anything to stop me from being ambitious. For all the time, i've been a person who wants to create great things and I have found this passion in developing great softwares.
