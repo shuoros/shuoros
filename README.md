@@ -1,4 +1,5 @@
 ![shuoros's github stats](https://github-readme-stats.vercel.app/api?username=shuoros&show_icons=true&theme=darcula&count_private=true&include_all_commits=true&custom_title=Soroush%27s+GitHub+Stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuoros&layout=compact&theme=darcula&hide=html,css,less,jupyter+notebook,javascript,coffeescript&custom_title=Soroush%27s+Most+Used+Languages)
 
 ### Hi there 👋🏼, I'm Soroush
 
