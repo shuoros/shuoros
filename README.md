@@ -1,20 +1,32 @@
-![shuoros's github stats](https://github-readme-stats.vercel.app/api?username=shuoros&show_icons=true&theme=darcula&count_private=true&include_all_commits=true&custom_title=Soroush%27s+GitHub+Stats)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuoros&layout=compact&theme=darcula&hide=html,css,less,jupyter+notebook,javascript,coffeescript&custom_title=Soroush%27s+Most+Used+Languages) -->
+### Available for job👨‍💻
+[![Linkedin Badge](https://img.shields.io/badge/-Soroush%20Shemshadi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shuoros/)](https://www.linkedin.com/in/shuoros/) 
+[![Stackoverflow Badge](https://img.shields.io/badge/-Soroush%20Shemshadi-f48024?style=flat&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/story/shuoros)](https://stackoverflow.com/story/shuoros) 
+[![Steam Badge](https://img.shields.io/badge/-Shuoros-2A475E?style=flat&logo=Steam&logoColor=white&link=https://steamcommunity.com/profiles/76561199035818916/)](https://steamcommunity.com/profiles/76561199035818916/) 
+[![Spotify Badge](https://img.shields.io/badge/-Taste%20My%20Music-1ED760?style=flat&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/8eok1ds4tefumj3m7l88ie6t4?si=eSKACvnOS6m37KBypnfn9w&utm_source=copy-link&dl_branch=1)](https://open.spotify.com/user/8eok1ds4tefumj3m7l88ie6t4?si=eSKACvnOS6m37KBypnfn9w&utm_source=copy-link&dl_branch=1) 
+[![MyWebsite Badge](https://img.shields.io/badge/-My%20Website-CDD9E5?style=flat&logo=Github&logoColor=white&link=https://shuoros.github.io)](https://shuoros.github.io) 
 
-### Hi there 👋🏼, I'm Soroush
-
-I am graduated with bachelor's degree in computer engineering from the University of Guilan. While taking Advanced Programming course, I became familiar with the Java programming language and fell in love with it from the first lines of code I wrote. I quickly started to learn Java in depth and read many books on Java software development. At the end of that semester, when I gained highest grade in the class by developing the Bomber Man game as my final project, I was selected as teacher assistant for junior high students. Happily, I successfully assessed and supervised about 100 fellow students during my TAships. In my whole life I have never settled for less and always have tried to improve myself to achieve the best in anything and I never let anything to stop me from being ambitious. For all the time, i've been a person who wants to create great things and I have found this passion in developing great softwares.
-
-I have strong skills in developing and maintaining Spring Boot programs. I’m fluent in Spring core and its futures. I am familiar with JPA and Spring Data and have the ability to work with a variety of relational and non-relational databases. I am familiar with the concepts of unit testing and have good experience in Junit framework. My specialties are Teamwork, Git, Linux, Java EE, Spring Boot, Clean Code and Java Design Pattern.
-
-- 🔭 I’m currently working on [Javagram](https://github.com/javaForEverything/javagram).
-- 🌱 I’m currently learning Spring Cloud.
-- 👯 I’m looking to collaborate on any Java and Spring projects.<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Java and Spring Boot😃.
-- 📫 How to reach me: shuoros@yahoo.com
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-📍 Where to find me:
-
-[LinkedIn](https://www.linkedin.com/in/shuoros/), [StackOverFlow](https://stackoverflow.com/story/shuoros), [Steam](https://steamcommunity.com/profiles/76561199035818916/), [Spotify](https://open.spotify.com/user/8eok1ds4tefumj3m7l88ie6t4?si=eSKACvnOS6m37KBypnfn9w&utm_source=copy-link&dl_branch=1).
+```javascript
+var aboutMe = {
+    name : "Soroush Shemshadi",
+    age : 22,
+    education : "Bachelor of Software Engineering",
+    professio : "Java Developer",
+    website : "https://shuoros.github.io",
+    email : "shuoros@yahoo.com",
+    stack : {
+        backEnd : {
+            frameworks : [ Spring, Spring Boot, Spring Data, Spring Security, Spring Cloud Gateway ],
+            technologies : [ RabbitMQ, Kafka, Swagger, Sentry, Elasticsearc, Zuul, Eureka ],
+            databases : [ SQL & RDBMS, NoSQL, MySQL, PostgreSQL, MongoDB ]
+        },
+        frontEnd : {
+            languages : [ JavaScript, HTML5, CSS3 ],
+            frameworks : [ VueJS, JQuery ]
+        }
+    },
+    tools : [ JUnit, Git, Docker, Kubernetes, Nginx ],
+    architectures : [ REST APIs, MVC, Microservice ],
+    methodologies : [ Clean Code, TDD, Solid Principals, UP, Agile, Scrum, Paired Programming ],
+    operatingSystems : [ Windows, Unix, Linux]
+}
+```
