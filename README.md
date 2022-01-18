@@ -16,7 +16,7 @@ var aboutMe = {
     stack : {
         backEnd : {
             frameworks : [ Spring, Spring Boot, Spring Data, Spring Security, Spring Cloud Gateway ],
-            technologies : [ RabbitMQ, Kafka, Swagger, Sentry, Elasticsearc, Zuul, Eureka ],
+            technologies : [ RabbitMQ, Kafka, Swagger, Sentry, Elasticsearch, Zuul, Eureka ],
             databases : [ SQL & RDBMS, NoSQL, MySQL, PostgreSQL, MongoDB ]
         },
         frontEnd : {
