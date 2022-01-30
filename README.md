@@ -21,7 +21,7 @@ var aboutMe = {
         },
         frontEnd : {
             languages : [ JavaScript, HTML5, CSS3 ],
-            frameworks : [ VueJS, JQuery ]
+            frameworks : [ JQuery ]
         }
     },
     tools : [ JUnit, Git, Docker, Kubernetes, Nginx ],
