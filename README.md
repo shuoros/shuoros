@@ -111,7 +111,7 @@ I am a graduate of Computer Engineering from the [University of Guilan](https://
 </div>
 <div align="center">
     
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ycl27hmhtxniscnagdkknh7nw4&cover_image=true&theme=novatorem&bar_color=ff6600&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ycl27hmhtxniscnagdkknh7nw4&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ycl27hmhtxniscnagdkknh7nw4&cover_image=true&theme=novatorem&bar_color=ff6600&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ycl27hmhtxniscnagdkknh7nw4&redirect=true)
     
 </div>
     
