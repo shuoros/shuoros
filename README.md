@@ -6,25 +6,25 @@
     </br>
     </br>
     <a href="https://www.linkedin.com/in/shuoros/">
-      		<img src="https://badgify.thex.solutions/api/badge/link?title=Soroush%20Shemshadi&icon=linkedin&size=m&bg=0072b1" />
+      		<img src="https://badgify.thex.solutions/api/badge/link?title=Soroush%20Shemshadi&icon=linkedin&size=s&bg=0072b1" />
     </a>
     <a href="https://www.twitter.com/shuoros/">
-      		<img src="https://badgify.thex.solutions/api/badge/link?title=shuoros&icon=twitter&size=m&bg=1d8296" />
+      		<img src="https://badgify.thex.solutions/api/badge/link?title=shuoros&icon=twitter&size=s&bg=1d8296" />
     </a>
 	<a href="https://stackoverflow.com/story/shuoros">
-      		<img src="https://badgify.thex.solutions/api/badge/link?title=Soroush%20Shemshadi%2011121568&icon=stack-overflow&size=m&bg=f48024" />
+      		<img src="https://badgify.thex.solutions/api/badge/link?title=Soroush%20Shemshadi%2011121568&icon=stack-overflow&size=s&bg=f48024" />
     </a>
     <a href="https://discord.com/users/shuoros#5896">
-      		<img src="https://badgify.thex.solutions/api/badge/link?title=shuoros%235896&icon=discord&size=m&bg=585abf" />
+      		<img src="https://badgify.thex.solutions/api/badge/link?title=shuoros%235896&icon=discord&size=s&bg=585abf" />
     </a>
     <a href="https://steamcommunity.com/profiles/76561199035818916/">
-      		<img src="https://badgify.thex.solutions/api/badge/link?title=shuoros&icon=steam&size=m&bg=2A475E" />
+      		<img src="https://badgify.thex.solutions/api/badge/link?title=shuoros&icon=steam&size=s&bg=2A475E" />
     </a>
     <a href="https://open.spotify.com/user/8eok1ds4tefumj3m7l88ie6t4?si=eSKACvnOS6m37KBypnfn9w&utm_source=copy-link&dl_branch=1">
-      		<img src="https://badgify.thex.solutions/api/badge/link?title=My%20Favorite%20Songs&icon=spotify&size=m&bg=1ED760" />
+      		<img src="https://badgify.thex.solutions/api/badge/link?title=My%20Favorite%20Songs&icon=spotify&size=s&bg=1ED760" />
     </a>
     <a href="https://shuoros.github.io">
-      		<img src="https://badgify.thex.solutions/api/badge/link?title=My%20CV&icon=file&size=m&bg=lavender&color=white" />
+      		<img src="https://badgify.thex.solutions/api/badge/link?title=My%20CV&icon=file&size=s&bg=lavender&color=white" />
     </a>
 </div>
 
