@@ -159,7 +159,8 @@ I am a graduate of Computer Engineering from the [University of Guilan](https://
 <br/>
 <div align="center"> 
     <img src="https://raw.githubusercontent.com/shuoros/shuoros/output/github-contribution-grid-snake-orange.svg#gh-dark-mode-only" />
-<br/>
+</div>
+<br/><br/>
 <div align="center">
     <a href="#">
         <img alt="Soroush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shuoros&custom_title=Soroush's%20Contribution%20Graph&bg_color=0D1117&color=ff9631&line=FFFFFF&point=ff9631&hide_border=true" />
