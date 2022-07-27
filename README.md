@@ -106,33 +106,62 @@ I am a graduate of Computer Engineering from the [University of Guilan](https://
 </p>
 
 <br/>
+
 <div align="center">
     <h3>Listen With Me 🎧</h3>
 </div>
+<br/>
+
 <div align="center">
     
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ycl27hmhtxniscnagdkknh7nw4&cover_image=true&theme=novatorem&bar_color=ff6600&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ycl27hmhtxniscnagdkknh7nw4&redirect=true)
     
 </div>
-    
 <br/>
 <div align="center">
-    <h3>My GitHub Stats</h3>
+    <h3>My Projects 🗂</h3>
+    <br/>
+    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=badgify&theme=slateorange&hide_border=true)](https://github.com/shuoros/badgify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=ecommercy&theme=slateorange&hide_border=true)](https://github.com/shuoros/ecommercy)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smoothy-project&repo=smoothy&theme=slateorange&hide_border=true)](https://github.com/smoothy-project/smoothy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=jterminal&theme=slateorange&hide_border=true)](https://github.com/shuoros/jterminal)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=pepe-party&theme=slateorange&hide_border=true)](https://github.com/shuoros/pepe-party)
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=enigma&theme=slateorange&hide_border=true)](https://github.com/shuoros/enigma)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=Bomberman&theme=slateorange&hide_border=true)](https://github.com/shuoros/Bomberman)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=leetcodehub&theme=slateorange&hide_border=true)](https://github.com/shuoros/leetcodehub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=being-a-programmer&theme=slateorange&hide_border=true)](https://github.com/shuoros/being-a-programmer)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=software-engineering-101&theme=slateorange&hide_border=true)](https://github.com/shuoros/software-engineering-101)
+    
+</div>
+    
+<br/>  
+<div align="center">
+<h3>My GitHub Stats 📊</h3>
+    <br/>
     <a href="#">
-        <img alt="Soroush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shuoros&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr" height="200"/>
+        <img alt="Soroush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shuoros&show_icons=true&include_all_commits=true&count_private=true&theme=slateorange&hide_border=true" height="200"/>
     </a>
     <a href="#">
-        <img alt="Soroush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuoros&langs_count=10&layout=compact&theme=codeSTACKr&hide_border=true&hide=jupyter%20notebook" height="200"/>
+        <img alt="Soroush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuoros&langs_count=10&layout=compact&theme=slateorange&hide_border=true&hide=jupyter%20notebook" height="200"/>
     </a>
 </div>
-
+    
+</div>
+<br/>
+<div align="center"> 
+    <img src="https://raw.githubusercontent.com/shuoros/shuoros/output/github-contribution-grid-snake-orange.svg#gh-dark-mode-only" />
 <br/>
 <div align="center">
     <a href="#">
         <img alt="Soroush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shuoros&custom_title=Soroush's%20Contribution%20Graph&bg_color=0D1117&color=ff9631&line=FFFFFF&point=ff9631&hide_border=true" />
     </a>
 <div>
-      
-<div align="center">
-    <img src="https://raw.githubusercontent.com/shuoros/shuoros/output/github-contribution-grid-snake-orange.svg#gh-dark-mode-only" />
-</div>
