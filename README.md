@@ -126,19 +126,18 @@ I am a graduate of Computer Engineering from the [University of Guilan](https://
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=ecommercy&theme=slateorange&hide_border=true)](https://github.com/shuoros/ecommercy)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smoothy-project&repo=smoothy&theme=slateorange&hide_border=true)](https://github.com/smoothy-project/smoothy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=jterminal&theme=slateorange&hide_border=true)](https://github.com/shuoros/jterminal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=do-it-bot&theme=slateorange&hide_border=true)](https://github.com/shuoros/do-it-bot)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=pepe-party&theme=slateorange&hide_border=true)](https://github.com/shuoros/pepe-party)
 
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=enigma&theme=slateorange&hide_border=true)](https://github.com/shuoros/enigma)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=jterminal&theme=slateorange&hide_border=true)](https://github.com/shuoros/jterminal)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=Bomberman&theme=slateorange&hide_border=true)](https://github.com/shuoros/Bomberman)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=leetcodehub&theme=slateorange&hide_border=true)](https://github.com/shuoros/leetcodehub)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=being-a-programmer&theme=slateorange&hide_border=true)](https://github.com/shuoros/being-a-programmer)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=enigma&theme=slateorange&hide_border=true)](https://github.com/shuoros/enigma)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=software-engineering-101&theme=slateorange&hide_border=true)](https://github.com/shuoros/software-engineering-101)
     
 </div>
