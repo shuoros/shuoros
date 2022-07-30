@@ -129,6 +129,7 @@ I am a graduate of Computer Engineering from the [University of Guilan](https://
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=do-it-bot&theme=slateorange&hide_border=true)](https://github.com/shuoros/do-it-bot)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=pepe-party&theme=slateorange&hide_border=true)](https://github.com/shuoros/pepe-party)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=numj&theme=slateorange&hide_border=true)](https://github.com/shuoros/NumJ)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=jterminal&theme=slateorange&hide_border=true)](https://github.com/shuoros/jterminal)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuoros&repo=Bomberman&theme=slateorange&hide_border=true)](https://github.com/shuoros/Bomberman)
