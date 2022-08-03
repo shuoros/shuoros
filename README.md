@@ -2,7 +2,7 @@
     <h3>
         Available for job👨‍💻
     </h3>
-    <img src="https://komarev.com/ghpvc/?username=shuoros&label=Profile%20views&color=orange&style=flat" alt="shuoros" /> 
+    <img src="https://badgify.thex.solutions/api/counter/github/profile/shuoros" alt="shuoros views" /> 
     </br>
     </br>
     <a href="https://www.linkedin.com/in/shuoros/">
