@@ -9,38 +9,14 @@
 </div>
 </br>
 <div align="center"> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shuoros&theme=synthwave" alt="mystreak"/>
+</br>
+<img src="https://github-readme-stats.vercel.app/api?username=shuoros&show_icons=true&include_all_commits=true&theme=synthwave&count_private=true&hide_title=true" alt="mystat"/>
+</br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuoros&theme=synthwave&layout=donut&hide=jupyter+notebook,vhdl,html,css,less" alt="mystat"/>
+</div>
+</br>
+<div align="center"> 
 <img src="https://raw.githubusercontent.com/shuoros/shuoros/output/github-contribution-grid-snake-orange.svg#gh-dark-mode-only" />
 </div>
 </br>
-
-```java
-public class Programmer {
-
-	public String name = "Soroush Shemshadi";
-	
-	public Integer experience = 5;
-	
-	public String education = "Bachelor of Software Engineering";
-	
-	public String website = "https://shuoros.github.io";
-	
-	public String email = "shuoros@yahoo.com";
-	
-	private List<String> stack = List.of {
-		 "Java", "Spring", "Spring Boot", "Spring Data", "Spring Security", "Spring Cloud Gateway",
-		 "RabbitMQ", "Kafka", "Swagger", "Sentry", "Elasticsearch", "Zuul", "Eureka",
-		 "SQL", "NoSQL", "MySQL", "PostgreSQL", "MongoDB", "ArangoDB"
-	};
-	
-	private List<String> tools = List.of { "JUnit", "Git", "Docker", "Kubernetes", "Nginx" };
-	
-	private List<String> architectures = List.of { "REST APIs", "MVC", "Microservice" };
-	
-	private List<String> methodologies = List.of {
-		"Clean Code, TDD, Solid Principals, UP, Agile, Scrum, Paired Programming"
-	};
-	
-	private List<String> operatingSystems = List.of { "Windows", "Unix", "Linux" };
-	
-}
-```
